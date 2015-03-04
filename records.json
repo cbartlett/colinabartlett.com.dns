@@ -5,6 +5,7 @@
       { "type": "A", "name": "do", "ttl": 60, "value": "104.236.62.188" },
       { "type": "A", "name": "home", "ttl": 60, "value": "71.245.252.128" },
       { "type": "CNAME", "name": "calendar", "ttl": 3600, "value": "ghs.googlehosted.com" },
+      { "type": "CNAME", "name": "deployhooks", "ttl": 3600, "value": "cbartlett-deploy-hook-forker.herokuapp.com" },
       { "type": "CNAME", "name": "docs", "ttl": 3600, "value": "ghs.googlehosted.com" },
       { "type": "CNAME", "name": "mail", "ttl": 3600, "value": "ghs.googlehosted.com" },
       { "type": "CNAME", "name": "sites", "ttl": 3600, "value": "ghs.googlehosted.com" },
